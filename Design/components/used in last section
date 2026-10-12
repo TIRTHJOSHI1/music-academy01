@@ -1,0 +1,5 @@
+Add the Originkit "Xylophone Helix" component with the CLI:
+
+npx originkit@latest add xylophone-helix --prompt
+
+Authenticate with ORIGINKIT_API_KEY=cmp_live_2qnkqBnZSt3tjRgrDsiKceaIvAjp6SIR (export it in the shell before running the command).
